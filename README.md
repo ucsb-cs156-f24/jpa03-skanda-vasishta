@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-skanda-vasishta
 
 Running at: https://jpa03-skanda-vasishta.dokku-06.cs.ucsb.edu/
 
